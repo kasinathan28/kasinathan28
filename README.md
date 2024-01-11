@@ -1,4 +1,3 @@
-<img align="top" alt="cover image" width="100%" height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <h1 align="center">Hi 👋, I'm Kasinathan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
