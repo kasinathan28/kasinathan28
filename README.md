@@ -2,10 +2,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kasinathan!;Frontend+Developer+%7C+UI%2FUX+Lover;Building+Futuristic+UIs+and+Mobile+Apps" />
 </h1>
-<!-- Avatar with Lottie GIF -->
-<p align="center">
-  <img src="https://github.com/kasinathan28/avatar.gif" width="180" alt="Developer Lottie Avatar" />
-</p>
 
 ---
 
