@@ -1,14 +1,10 @@
-<!-- Banner (using iframe Lottie embed) -->
-<p align="center">
-  <iframe src="https://lottie.host/?file=2dba3c7b-5047-4f25-b346-c440c1ae39bc/r8I4HxGCYO.json" style="width: 100%; height: 300px; border: none;"></iframe>
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kasinathan!;Frontend+Developer+%7C+UI%2FUX+Lover;Building+Futuristic+UIs+and+Mobile+Apps" />
 </h1>
 <!-- Avatar with Lottie GIF -->
 <p align="center">
-  <img src="https://lottie.host/b5f685f3-5e3b-4d6a-ae7c-31f6b7bcb319/VIlWaqOUyP.gif" width="180" alt="Developer Lottie Avatar" />
+  <img src="https://github.com/kasinathan28/avatar.gif" width="180" alt="Developer Lottie Avatar" />
 </p>
 
 ---
