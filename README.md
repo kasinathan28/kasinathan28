@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building at **Peak-Alpha**
+- 🔭 Currently building at **Classiq**
 - 🌱 Exploring **Flutter, Next.js, React Native, and TypeScript**
 - 🎯 Passionate about **UI animations, mobile UX, and clean design**
 - 🌐 Portfolio → [kasinathanb.vercel.app](https://kasinathanb.vercel.app)
